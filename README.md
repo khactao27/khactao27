@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khactao27/khactao27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,10 +28,10 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m working as a DevOps Engineer - Backend Developer.
+- 🌱 I’m currently learning blockchain.
+- 💬 Ask me about: DevOps Engineer
+- 📫 How to reach me: tao.duongkhac@gmail.com
 
 ---
 
