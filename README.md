@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m working as a DevOps Engineer - Backend Developer.
-- 🌱 I’m currently learning blockchain.
-- 💬 Ask me about: DevOps Engineer
+- 🔭 I’m working as a Backend Developer (Nodejs - ExpressJs and Java Spring Framework).
+- 🌱 I’m currently learning blockchain (Solidity - Dapp).
+- 💬 Ask me about: Backend Developer and System Architecture!
 - 📫 How to reach me: tao.duongkhac@gmail.com
 
 ---
